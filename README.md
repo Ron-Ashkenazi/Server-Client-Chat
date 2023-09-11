@@ -1,5 +1,4 @@
-# Server-Client-Chat
-<h1>Server Client Chat Project in Java</h1>
+# Java Client-Server Chat Application
 
 <h2>Overview</h2>
 <p>This Java-based Client-Server Chat Application is a versatile and easy-to-use public messaging platform that allows unlimited users to connect simultaneously.
